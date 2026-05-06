@@ -27,5 +27,10 @@ yes
 - Shows results  
 
 ## Output Screenshots
+
+### Normal Output
 ![Output](output3.png)
+
+### Filtered Output
 ![Output](output4.png)
+![Output](output5.png)
