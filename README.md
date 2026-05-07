@@ -29,8 +29,8 @@ yes
 ## Output Screenshots
 
 ### Normal Output
-![Output](output3.png)
+![Output](task2output1.png)
 
 ### Filtered Output
-![Output](output4.png)
-![Output](output5.png)
+![Output](task2output2.png)
+![Output](task2output3.png)
